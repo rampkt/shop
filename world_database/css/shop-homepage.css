@@ -1,0 +1,115 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+#country-list{float:left;list-style:none;margin:0;padding:0;width:300px;z-index:1000;position:absolute; border:1px solid #e0e0e0;}
+#country-list li{padding: 10px; background:#FAFAFA;border-bottom:#ccc 1px solid;}
+#country-list li:hover{background:#F0F0F0;}
+#search-box{padding: 10px;border: #ccc 1px solid;}
+#state-list{float:left;list-style:none;margin:0;padding:0;width:300px;z-index:1000;position:absolute;border:1px solid #e0e0e0;}
+#state-list li{padding: 10px; background:#FAFAFA;border-bottom:#ccc 1px solid;}
+#state-list li:hover{background:#F0F0F0;}
+#search-box2{padding: 10px;border: #ccc 1px solid;}
+#city-list{float:left;list-style:none;margin:0;padding:0;width:300px;z-index:1000;position:absolute;border:1px solid #e0e0e0;}
+#city-list li{padding: 10px; background:#FAFAFA;border-bottom:#ccc 1px solid;}
+#city-list li:hover{background:#F0F0F0;}
+#search-box3{padding: 10px;border: #ccc 1px solid;}
+
+.input-lg
+{
+	font-size:13px;
+}
+
+.alert-success
+{
+	padding:10px;
+}
+
+.footerli
+{
+	display:inline;
+	padding:0px 20px;
+}
+.footerli a
+{
+	color:#ccc;
+}
+.formcenter
+{
+	margin-left:10%;
+}
+.text-top
+{
+	margin:20px 0px 20px 25px;
+}
+.navbar-header
+{
+float:left;	
+}
+.info-desc
+{
+	float:left;
+	color:#f0f0f0;
+	font-size:12px;
+	margin-top:15px;
+	
+	
+}
+.text-lg
+{
+	width:300px;
+	border-radius:4px;
+	padding:8px;
+	border:1px solid #ccc;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 20px 0;
+	color:#ccc;
+}
